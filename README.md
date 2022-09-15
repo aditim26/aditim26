@@ -1,9 +1,10 @@
 # 👋 Hi, I’m Aditi
-- I am currently a B.Tech student in my Pre Final Year 
+- I am currently a B.Tech student in my Pre Final Year (Computer Science and Engineering student)
 - I am seeking opportunities that can help me in enhancing my skills, strengthen my knowledge, and realize my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective.
 - 👀 I’m interested in Coding, Problem Solving.
 - 🌱 I’m currently looking for Intership Opportunities
 - I have been part of Microsoft Engage 2022 and GSSoC'22
+- My HackerRank id: https://www.hackerrank.com/2020B0101014
 - 📫 How to reach me gmail: aditim262002@gmail.com
 # Languages I know
 ![image](https://user-images.githubusercontent.com/91279248/190476422-c0ec29f5-80cb-48b9-b6b1-071185ef68eb.png)
