@@ -3,7 +3,7 @@
 - I am seeking opportunities that can help me in enhancing my skills, strengthen my knowledge, and realize my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective.
 - 👀 I’m interested in Coding, Problem Solving.
 - 🌱 I’m currently looking for Intership Opportunities
-- I have been part of Microsoft Engage 2022 and GSSoC'22
+- I have been part of Microsoft Engage 2022.
 - 📫 Reach me at LinkedIn: https://www.linkedin.com/in/aditi-mittal-657102215/
 # Languages I know
 ![image](https://user-images.githubusercontent.com/91279248/190476422-c0ec29f5-80cb-48b9-b6b1-071185ef68eb.png)
