@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Aditi
+# 👋 Hi, I’m Aditi Mittal
 - I am currently a B.Tech student in my Pre Final Year (Computer Science and Engineering student)
 - I am seeking opportunities that can help me in enhancing my skills, strengthen my knowledge, and realize my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective.
 - 👀 I’m interested in Coding, Problem Solving.
