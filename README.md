@@ -6,10 +6,7 @@
 - I have been part of Microsoft Engage 2022.
 - 📫 Reach me at LinkedIn: https://www.linkedin.com/in/aditi-mittal-657102215/
 # Languages I know
-![image](https://user-images.githubusercontent.com/91279248/190476422-c0ec29f5-80cb-48b9-b6b1-071185ef68eb.png)
-![image](https://user-images.githubusercontent.com/91279248/190476818-d8cf1e27-aebb-4a6c-8df1-58a74bc18754.png)
-![image](https://user-images.githubusercontent.com/91279248/190476999-5dc85ef4-4d65-4bf4-ac4d-1b3271b35d92.png)
-![image](https://user-images.githubusercontent.com/91279248/190475450-4b20fe1b-9d9b-42ea-b0be-b1d2e1c0b3b0.png)
+https://camo.githubusercontent.com/b4c648ad32f8f9f7c328a4dd59b5df0eb2a4e2623095e31d059f026979129491/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632362e7376673f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465
 
 # Projects
 - Live Weather App (HTML, CSS, JavaScript) https://github.com/aditim26/weather-application
