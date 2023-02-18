@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aditi Mittal</h1>
-<h3 align="center">A pre final year student wanting to be a passionate Software Developer</h3>
+<!-- <h3 align="center">A pre final year student wanting to be a passionate Software Developer</h3> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditim26" alt="aditim26" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+- I am currently a B.Tech student in my Pre Final Year (Computer Science and Engineering student)
+- I am seeking opportunities that can help me in enhancing my skills, strengthen my knowledge, and realize my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective.
+- 👀 I’m interested in Coding, Problem Solving.
+- 🌱 I’m currently looking for Intership Opportunities
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **https://www.linkedin.com/in/aditi-mittal-657102215/**
 
@@ -23,14 +27,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditim26&" alt="aditim26" /></p>
 
 
-<!-- # 👋 Hi, I’m Aditi Mittal
-<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aditim26.aditim26) -->
-
-- I am currently a B.Tech student in my Pre Final Year (Computer Science and Engineering student)
+<!-- - I am currently a B.Tech student in my Pre Final Year (Computer Science and Engineering student)
 - I am seeking opportunities that can help me in enhancing my skills, strengthen my knowledge, and realize my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective.
 - 👀 I’m interested in Coding, Problem Solving.
-- 🌱 I’m currently looking for Intership Opportunities
-- I have been part of Microsoft Engage 2022.
+- 🌱 I’m currently looking for Intership Opportunities -->
+<!-- - I have been part of Microsoft Engage 2022.
 - 📫 Reach out to me through LinkedIn: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-mittal-657102215/)
 # Languages I know
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -42,8 +43,8 @@
 
 # Projects
 - Live Weather App (HTML, CSS, JavaScript) https://github.com/aditim26/weather-application
-- Spam SMS Detection (Data Analysis Project) https://github.com/aditim26/Spam-SMS-Detection
-- Microsoft Engage Project https://github.com/aditim26/Microsoft-Engage-2022
+- Spam SMS Detection (Data Analysis Project) https://github.com/aditim26/Spam-SMS-Detection -->
+<!-- - Microsoft Engage Project https://github.com/aditim26/Microsoft-Engage-2022 -->
 <!---
 aditim26/aditim26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
