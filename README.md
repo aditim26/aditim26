@@ -6,7 +6,7 @@
 - 👀 I’m interested in Coding, Problem Solving.
 - 🌱 I’m currently looking for Intership Opportunities
 - I have been part of Microsoft Engage 2022.
-- 📫 Reach me through LinkedIn: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-mittal-657102215/)
+- 📫 Reach out to me through LinkedIn: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-mittal-657102215/)
 # Languages I know
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
