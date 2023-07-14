@@ -7,7 +7,7 @@
 - 🌱 I’m currently looking for Intership Opportunities
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📫 How to reach me **https://www.linkedin.com/in/aditi-mittal-657102215/**
+<!--  📫 How to reach me **https://www.linkedin.com/in/aditi-mittal-657102215/** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
