@@ -4,7 +4,7 @@
 <!-- - I am currently a B.Tech student in my Pre Final Year (Computer Science and Engineering) -->
 - I am seeking opportunities that can help me in enhancing my skills, strengthen my knowledge, and realize my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective.
 - 👀 I’m interested in Coding, Problem Solving.
-- 🌱 I’m currently looking for Intership Opportunities
+- 🌱 I’m currently looking for Intership and Job Opportunities
 <!-- 🌱 I’m currently learning **MERN Stack** -->
 
 <!--  📫 How to reach me **https://www.linkedin.com/in/aditi-mittal-657102215/** -->
